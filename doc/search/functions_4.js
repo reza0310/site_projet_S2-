@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['update_0',['Update',['../class_garde.html#a4322b564223d7ce72ccce2b534cc6a6c',1,'Garde.Update()'],['../class_joueur.html#ab4bc87b34fb1f6f20b459f7e0f6281b3',1,'Joueur.Update()']]]
+  ['regardervers_0',['RegarderVers',['../class_garde.html#a235016875d973e4338ec04d1daf3c889',1,'Garde']]]
 ];

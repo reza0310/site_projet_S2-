@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['update_0',['Update',['../class_garde.html#a4322b564223d7ce72ccce2b534cc6a6c',1,'Garde.Update()'],['../class_joueur.html#ab4bc87b34fb1f6f20b459f7e0f6281b3',1,'Joueur.Update()']]]
+  ['spawnplayers_0',['SpawnPlayers',['../class_spawn_players.html',1,'']]],
+  ['start_1',['Start',['../class_garde.html#a15e6f5b0a28db0710e014f1b9abb4eda',1,'Garde.Start()'],['../class_joueur.html#a5955050e4d35c5ccfc82f696a9eda44c',1,'Joueur.Start()']]],
+  ['suivrechemin_2',['SuivreChemin',['../class_garde.html#a413b8769cf0f39dc23c03b1312cd2b1c',1,'Garde']]]
 ];
